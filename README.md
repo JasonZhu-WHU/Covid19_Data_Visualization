@@ -1,6 +1,8 @@
-# covid19_azft
+# Covid19_Data_Visualization
 
-> A Vue.js project
+> A very simple project for data visualization of COVID 19
+> Based on Vue, ElementUI and Echarts
+> Project for the summer camp of AZFT, ZJU, 2020
 
 ## Build Setup
 
